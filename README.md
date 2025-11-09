@@ -2,11 +2,7 @@
 
 
 
-coś nowego w pliku
-
-
-
-coś jeszcze nowszego
+coś nowego w pliku readme
 
 
 
