@@ -2,5 +2,15 @@
 
 
 
-coś nowego w pliku
+coś nowego w pliku readme
+
+
+
+i jeszcze nowszego
+
+
+
+dodatkowe info o projekcie...
+
+
 
