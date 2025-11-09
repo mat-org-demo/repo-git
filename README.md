@@ -10,3 +10,7 @@ i jeszcze nowszego
 
 
 
+dodatkowe info o projekcie...
+
+
+

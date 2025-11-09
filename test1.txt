@@ -1,1 +1,4 @@
 nowy test 1
+
+1. zaloguj się
+2. sprawdź czy jesteś zalogowany poprawnie
